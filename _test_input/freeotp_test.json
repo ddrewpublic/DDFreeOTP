@@ -1,0 +1,28 @@
+{
+  "tokenOrder": [
+    ":totp@authenticationtest.com"
+  ],
+  "tokens": [
+    {
+      "algo": "SHA1",
+      "digits": 6,
+      "type": "TOTP",
+      "period": 30,
+      "secret": [
+        71,
+        187,
+        90,
+        125,
+        93,
+        204,
+        23,
+        251,
+        7,
+        132
+      ],
+      "counter": 0,
+      "issuerExt": "",
+      "label": "totp@authenticationtest.com"
+    }
+  ]
+}

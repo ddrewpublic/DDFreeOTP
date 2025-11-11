@@ -1,0 +1,15 @@
+[
+  {
+    "secret": "I65VU7K5ZQL7WB4E",
+    "issuer": "Test",
+    "label": "totp@authenticationtest.com",
+    "digits": 6,
+    "type": "TOTP",
+    "algorithm": "SHA1",
+    "thumbnail": "Default",
+    "last_used": 1740938599123,
+    "used_frequency": 0,
+    "period": 30,
+    "tags": []
+  }
+]
