@@ -28,7 +28,7 @@ Note
 Author
 ======
     Daniel Drew
-    Adapted from rich-murphey / freeotp-to-andotp to add andOTP to FreeOTP+
+    Adapted from https://github.com/rich-murphey/freeotp-to-andotp to add andOTP to FreeOTP+
 """
 import base64
 import json

@@ -29,7 +29,7 @@ Notes
 Author
 ======
     Daniel Drew
-    Adapted from rich-murphey / freeotp-to-andotp to support FreeOTP+.
+    Adapted from https://github.com/rich-murphey/freeotp-to-andotp to support FreeOTP+.
 """
 
 import base64
